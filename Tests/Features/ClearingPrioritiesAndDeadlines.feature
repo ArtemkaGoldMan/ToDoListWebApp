@@ -1,3 +1,4 @@
+@ClearingPrioritiesAndDeadlines
 Feature: Clearing Priorities and Deadlines
   As a user
   I want to clear priorities or deadlines from tasks

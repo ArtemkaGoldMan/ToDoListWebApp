@@ -1,3 +1,4 @@
+@FilteringAndSortingTasks
 Feature: Filtering and Sorting Tasks
   As a user
   I want to filter and sort tasks

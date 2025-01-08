@@ -35,6 +35,11 @@ namespace ToDoWEB.Services
             if (await _context.Tasks.AnyAsync(t => t.Description == description))
                 throw new InvalidOperationException("Task already exists.");
 
+            if (!Enum.IsDefined(typeof(PriorityLevel), priority))
+            {
+                throw new ArgumentException("Invalid priority level");
+            }
+
             var task = new Tasky
             {
                 Description = description,
@@ -59,7 +64,7 @@ namespace ToDoWEB.Services
             if (newPriority.HasValue)
                 task.Priority = newPriority.Value;
 
-            if (newDeadline.HasValue)
+            //if (newDeadline.HasValue)
                 task.Deadline = newDeadline;
 
             _context.Tasks.Update(task);

@@ -1,3 +1,4 @@
+@CompletingTasks
 Feature: Completing Tasks
   As a user
   I want to mark tasks as completed

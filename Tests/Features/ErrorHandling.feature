@@ -1,3 +1,4 @@
+@ErrorHandling
 Feature: Error Handling
   As a user
   I want the system to handle errors gracefully
@@ -11,4 +12,4 @@ Feature: Error Handling
   Scenario: Editing a non-existent task
     Given I have an empty to-do list
     When I edit a task with ID "9999" to have a new description "Buy groceries"
-    Then I should see an error message "Task not found"
+    Then I should see an error message "Task not found."

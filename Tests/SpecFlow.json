@@ -4,5 +4,9 @@
   },
   "unitTestProvider": {
     "name": "xUnit"
+  },
+  "livingDocGenerator": {
+    "enabled": true,
+    "filePath": "TestExecution.json"
   }
 }

@@ -1,3 +1,4 @@
+@DeletingTasks
 Feature: Deleting Tasks
   As a user
   I want to delete tasks
