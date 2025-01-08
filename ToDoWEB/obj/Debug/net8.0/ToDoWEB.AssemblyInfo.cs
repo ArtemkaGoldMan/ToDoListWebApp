@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("48d45fb5-7cd2-4ed5-929e-57d4645b3490")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDoWEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a66d1ff5e6d0bbc571c7f64d0daa37fe94ca645")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDoWEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDoWEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

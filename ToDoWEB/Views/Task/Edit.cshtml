@@ -1,0 +1,31 @@
+﻿@model ToDoWEB.Models.Tasky
+
+<h1>Edit Task</h1>
+<form method="post" asp-action="Edit">
+    <input type="hidden" name="id" value="@Model.Id">
+    <div class="mb-3">
+        <label for="Description" class="form-label">Description</label>
+        <input type="text" class="form-control" id="Description" name="description" value="@Model.Description" required>
+    </div>
+    <div class="mb-3">
+        <label for="Priority" class="form-label">Priority</label>
+        <select id="Priority" name="priority" class="form-select">
+            @foreach (var priority in Enum.GetValues(typeof(ToDoWEB.Models.PriorityLevel)))
+            {
+                if (Model.Priority == (ToDoWEB.Models.PriorityLevel)priority)
+                {
+                    <option value="@priority" selected="selected">@priority</option>
+                }
+                else
+                {
+                    <option value="@priority">@priority</option>
+                }
+            }
+        </select>
+    </div>
+    <div class="mb-3">
+        <label for="Deadline" class="form-label">Deadline</label>
+        <input type="date" class="form-control" id="Deadline" name="deadline" value="@Model.Deadline?.ToString("yyyy-MM-dd")">
+    </div>
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>

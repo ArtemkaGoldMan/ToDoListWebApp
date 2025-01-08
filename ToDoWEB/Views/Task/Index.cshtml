@@ -1,0 +1,40 @@
+﻿@model IEnumerable<ToDoWEB.Models.Tasky>
+
+<h1>To-Do List</h1>
+<a href="/Task/Create" class="btn btn-primary">Add Task</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Description</th>
+            <th>Priority</th>
+            <th>Deadline</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in Model)
+        {
+            <tr>
+                <td>@task.Description</td>
+                <td>@task.Priority</td>
+                <td>@task.Deadline?.ToString("yyyy-MM-dd")</td>
+                <td>@(task.IsCompleted ? "Completed" : "Active")</td>
+                <td>
+                    <a href="/Task/Edit/@task.Id" class="btn btn-warning">Edit</a>
+                    <a href="/Task/Delete/@task.Id" class="btn btn-danger">Delete</a>
+                    @if (!task.IsCompleted)
+                    {
+                        <a href="/Task/Complete/@task.Id" class="btn btn-success">Complete</a>
+                    }
+                </td>
+            </tr>
+        }
+        @if (!Model.Any())
+        {
+            <tr>
+                <td colspan="5" class="text-center">No tasks available</td>
+            </tr>
+        }
+    </tbody>
+</table>
