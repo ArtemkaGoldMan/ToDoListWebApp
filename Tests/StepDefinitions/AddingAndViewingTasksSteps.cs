@@ -7,14 +7,15 @@ using ToDoWEB.Data;
 using ToDoWEB.Models;
 using ToDoWEB.Services;
 
-
 namespace Tests.StepDefinitions
 {
     [Binding]
+    [Scope(Tag = "AddingAndViewingTasks")]
     public class AddingAndViewingTasksSteps : IDisposable
     {
         private readonly ToDoContext _context;
         private readonly ITaskService _taskService;
+        private string _errorMessage;
 
         public AddingAndViewingTasksSteps()
         {
@@ -36,10 +37,24 @@ namespace Tests.StepDefinitions
             await _taskService.AddTaskAsync(description, Enum.Parse<PriorityLevel>(priority), deadline);
         }
 
-        [When(@"I add a task ""(.*)"" with priority ""(.*)"" and deadline ""(.*)"" again")]
-        public async Task WhenIAddATaskWithPriorityAndDeadlineAgain(string description, string priority, DateTime deadline)
+        [When(@"I attempt to add a duplicate task ""(.*)"" with priority ""(.*)"" and deadline ""(.*)""")]
+        public async Task WhenIAttemptToAddADuplicateTask(string description, string priority, DateTime deadline)
         {
-            await _taskService.AddTaskAsync(description, Enum.Parse<PriorityLevel>(priority), deadline);
+            try
+            {
+                await _taskService.AddTaskAsync(description, Enum.Parse<PriorityLevel>(priority), deadline);
+            }
+            catch (InvalidOperationException ex)
+            {
+                _errorMessage = ex.Message;
+            }
+        }
+
+        [Then(@"I should see an error ""(.*)""")]
+        public void ThenIShouldSeeAnError(string expectedError)
+        {
+            _errorMessage.Should().NotBeNull();
+            _errorMessage.Should().Be(expectedError);
         }
 
         [Then(@"the task list should contain (.*) task")]

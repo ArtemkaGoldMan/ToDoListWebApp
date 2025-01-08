@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|c:\\users\\artem\\university\\test_oprog\\proj2\\todolist\\tests\\features\\addingandviewingtasks.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|solutionrelative:tests\\features\\addingandviewingtasks.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|c:\\users\\artem\\university\\test_oprog\\proj2\\todolist\\tests\\stepdefinitions\\addingandviewingtaskssteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|solutionrelative:tests\\stepdefinitions\\addingandviewingtaskssteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|c:\\users\\artem\\university\\test_oprog\\proj2\\todolist\\tests\\features\\addingandviewingtasks.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|solutionrelative:tests\\features\\addingandviewingtasks.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|c:\\users\\artem\\university\\test_oprog\\proj2\\todolist\\tests\\stepdefinitions\\editingtaskssteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|solutionrelative:tests\\stepdefinitions\\editingtaskssteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|c:\\users\\artem\\university\\test_oprog\\proj2\\todolist\\tests\\features\\editingtasks.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|solutionrelative:tests\\features\\editingtasks.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|c:\\users\\artem\\university\\test_oprog\\proj2\\todolist\\tests\\features\\errorhandling.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|solutionrelative:tests\\features\\errorhandling.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|c:\\users\\artem\\university\\test_oprog\\proj2\\todolist\\tests\\features\\clearingprioritiesanddeadlines.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|solutionrelative:tests\\features\\clearingprioritiesanddeadlines.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|c:\\users\\artem\\university\\test_oprog\\proj2\\todolist\\tests\\features\\validations.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|solutionrelative:tests\\features\\validations.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|c:\\users\\artem\\university\\test_oprog\\proj2\\todolist\\tests\\features\\filteringandsortingtasks.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|solutionrelative:tests\\features\\filteringandsortingtasks.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|c:\\users\\artem\\university\\test_oprog\\proj2\\todolist\\tests\\features\\deletingtasks.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|solutionrelative:tests\\features\\deletingtasks.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|c:\\users\\artem\\university\\test_oprog\\proj2\\todolist\\tests\\features\\completingtasks.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|solutionrelative:tests\\features\\completingtasks.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}|Tests\\Tests.csproj|c:\\users\\artem\\university\\test_oprog\\proj2\\todolist\\tests\\specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -73,7 +105,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,33 +113,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "EditingTasksSteps.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\StepDefinitions\\EditingTasksSteps.cs",
+              "RelativeDocumentMoniker": "Tests\\StepDefinitions\\EditingTasksSteps.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\StepDefinitions\\EditingTasksSteps.cs",
+              "RelativeToolTip": "Tests\\StepDefinitions\\EditingTasksSteps.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:54:30.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditingTasks.feature",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\EditingTasks.feature",
+              "RelativeDocumentMoniker": "Tests\\Features\\EditingTasks.feature",
+              "ToolTip": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\EditingTasks.feature",
+              "RelativeToolTip": "Tests\\Features\\EditingTasks.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T17:52:43.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeletingTasks.feature",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\DeletingTasks.feature",
+              "RelativeDocumentMoniker": "Tests\\Features\\DeletingTasks.feature",
+              "ToolTip": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\DeletingTasks.feature",
+              "RelativeToolTip": "Tests\\Features\\DeletingTasks.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T17:52:18.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AddingAndViewingTasks.feature",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\AddingAndViewingTasks.feature",
               "RelativeDocumentMoniker": "Tests\\Features\\AddingAndViewingTasks.feature",
               "ToolTip": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\AddingAndViewingTasks.feature",
               "RelativeToolTip": "Tests\\Features\\AddingAndViewingTasks.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-08T14:05:45.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AddingAndViewingTasksSteps.cs",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\StepDefinitions\\AddingAndViewingTasksSteps.cs",
               "RelativeDocumentMoniker": "Tests\\StepDefinitions\\AddingAndViewingTasksSteps.cs",
               "ToolTip": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\StepDefinitions\\AddingAndViewingTasksSteps.cs",
               "RelativeToolTip": "Tests\\StepDefinitions\\AddingAndViewingTasksSteps.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAswA8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T14:04:04.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "FilteringAndSortingTasks.feature",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\FilteringAndSortingTasks.feature",
+              "RelativeDocumentMoniker": "Tests\\Features\\FilteringAndSortingTasks.feature",
+              "ToolTip": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\FilteringAndSortingTasks.feature",
+              "RelativeToolTip": "Tests\\Features\\FilteringAndSortingTasks.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T17:53:08.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validations.feature",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\Validations.feature",
+              "RelativeDocumentMoniker": "Tests\\Features\\Validations.feature",
+              "ToolTip": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\Validations.feature",
+              "RelativeToolTip": "Tests\\Features\\Validations.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T17:53:28.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorHandling.feature",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\ErrorHandling.feature",
+              "RelativeDocumentMoniker": "Tests\\Features\\ErrorHandling.feature",
+              "ToolTip": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\ErrorHandling.feature",
+              "RelativeToolTip": "Tests\\Features\\ErrorHandling.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T17:53:42.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompletingTasks.feature",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\CompletingTasks.feature",
+              "RelativeDocumentMoniker": "Tests\\Features\\CompletingTasks.feature",
+              "ToolTip": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\CompletingTasks.feature",
+              "RelativeToolTip": "Tests\\Features\\CompletingTasks.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T17:52:17.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClearingPrioritiesAndDeadlines.feature",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\ClearingPrioritiesAndDeadlines.feature",
+              "RelativeDocumentMoniker": "Tests\\Features\\ClearingPrioritiesAndDeadlines.feature",
+              "ToolTip": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\Features\\ClearingPrioritiesAndDeadlines.feature",
+              "RelativeToolTip": "Tests\\Features\\ClearingPrioritiesAndDeadlines.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T17:52:08.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SpecFlow.json",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\SpecFlow.json",
               "RelativeDocumentMoniker": "Tests\\SpecFlow.json",
@@ -115,12 +251,11 @@
               "RelativeToolTip": "Tests\\SpecFlow.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-08T13:37:49.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T13:37:49.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\Tests\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "Tests\\DatabaseHelper.cs",
@@ -128,12 +263,11 @@
               "RelativeToolTip": "Tests\\DatabaseHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T13:26:03.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T13:26:03.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\ToDoWEB\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ToDoWEB\\Views\\Shared\\_Layout.cshtml",
@@ -141,12 +275,11 @@
               "RelativeToolTip": "ToDoWEB\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T12:59:25.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T12:59:25.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "dbo.Tasks.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ToDoAppDb/True/SqlTable/dbo.Tasks.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ToDoAppDb/True/SqlTable/dbo.Tasks.sql",
@@ -155,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\ToDoWEB\\Views\\Task\\Edit.cshtml",
               "RelativeDocumentMoniker": "ToDoWEB\\Views\\Task\\Edit.cshtml",
@@ -163,12 +296,11 @@
               "RelativeToolTip": "ToDoWEB\\Views\\Task\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T12:50:51.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T12:50:51.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "TaskService.cs",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\ToDoWEB\\Services\\TaskService.cs",
               "RelativeDocumentMoniker": "ToDoWEB\\Services\\TaskService.cs",
@@ -176,12 +308,11 @@
               "RelativeToolTip": "ToDoWEB\\Services\\TaskService.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAowBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T12:03:45.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T12:03:45.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "ITaskService.cs",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\ToDoWEB\\Services\\ITaskService.cs",
               "RelativeDocumentMoniker": "ToDoWEB\\Services\\ITaskService.cs",
@@ -189,12 +320,11 @@
               "RelativeToolTip": "ToDoWEB\\Services\\ITaskService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T12:03:15.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T12:03:15.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\ToDoWEB\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "ToDoWEB\\Controllers\\TaskController.cs",
@@ -202,12 +332,11 @@
               "RelativeToolTip": "ToDoWEB\\Controllers\\TaskController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAswEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T12:11:43.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T12:11:43.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\ToDoWEB\\Program.cs",
               "RelativeDocumentMoniker": "ToDoWEB\\Program.cs",
@@ -215,12 +344,11 @@
               "RelativeToolTip": "ToDoWEB\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAIwB4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:49:39.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T11:49:39.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\ToDoWEB\\Views\\Task\\Delete.cshtml",
               "RelativeDocumentMoniker": "ToDoWEB\\Views\\Task\\Delete.cshtml",
@@ -228,12 +356,11 @@
               "RelativeToolTip": "ToDoWEB\\Views\\Task\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T12:52:04.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T12:52:04.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\ToDoWEB\\Views\\Task\\Index.cshtml",
               "RelativeDocumentMoniker": "ToDoWEB\\Views\\Task\\Index.cshtml",
@@ -241,12 +368,11 @@
               "RelativeToolTip": "ToDoWEB\\Views\\Task\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T12:49:52.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T12:49:52.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\ToDoWEB\\Views\\Task\\Create.cshtml",
               "RelativeDocumentMoniker": "ToDoWEB\\Views\\Task\\Create.cshtml",
@@ -254,12 +380,11 @@
               "RelativeToolTip": "ToDoWEB\\Views\\Task\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T12:50:34.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T12:50:34.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "Tasky.cs",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\ToDoWEB\\Models\\Tasky.cs",
               "RelativeDocumentMoniker": "ToDoWEB\\Models\\Tasky.cs",
@@ -267,12 +392,11 @@
               "RelativeToolTip": "ToDoWEB\\Models\\Tasky.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:48:24.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T11:48:24.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "ToDoContext.cs",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Test_oprog\\Proj2\\ToDoList\\ToDoWEB\\Data\\ToDoContext.cs",
               "RelativeDocumentMoniker": "ToDoWEB\\Data\\ToDoContext.cs",
@@ -280,8 +404,7 @@
               "RelativeToolTip": "ToDoWEB\\Data\\ToDoContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:47:07.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T11:47:07.566Z"
             }
           ]
         }

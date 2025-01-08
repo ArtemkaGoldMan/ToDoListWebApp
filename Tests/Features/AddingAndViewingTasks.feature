@@ -1,3 +1,4 @@
+@AddingAndViewingTasks
 Feature: Adding and Viewing Tasks
   As a user
   I want to add and view tasks
@@ -13,8 +14,9 @@ Feature: Adding and Viewing Tasks
   Scenario: Adding a duplicate task
     Given I have an empty to-do list
     When I add a task "Buy groceries" with priority "High" and deadline "2025-01-15"
-    And I add a task "Buy groceries" with priority "Medium" and deadline "2025-01-20"
-    Then the task list should contain 1 task
+    And I attempt to add a duplicate task "Buy groceries" with priority "Medium" and deadline "2025-01-20"
+    Then I should see an error "Task already exists"
+
 
   Scenario: Viewing all tasks
     Given I have an empty to-do list
