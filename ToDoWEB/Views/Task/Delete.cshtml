@@ -1,6 +1,18 @@
 ﻿@model ToDoWEB.Models.Tasky
 
 <h1>Delete Task</h1>
+
+<!-- Error Summary -->
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
+
 <p>Are you sure you want to delete this task?</p>
 <div>
     <p><strong>Description:</strong> @Model.Description</p>

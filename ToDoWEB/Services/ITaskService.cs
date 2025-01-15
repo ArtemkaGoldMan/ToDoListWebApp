@@ -10,5 +10,6 @@ namespace ToDoWEB.Services
         Task EditTaskAsync(int id, string newDescription, PriorityLevel? newPriority = null, DateTime? newDeadline = null);
         Task CompleteTaskAsync(int id);
         Task DeleteTaskAsync(int id);
+        Task UncompleteTaskAsync(int id);
     }
 }

@@ -1,6 +1,18 @@
 ﻿@model ToDoWEB.Models.Tasky
 
 <h1>Edit Task</h1>
+
+<!-- Error Summary -->
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
+
 <form method="post" asp-action="Edit">
     <input type="hidden" name="id" value="@Model.Id">
     <div class="mb-3">

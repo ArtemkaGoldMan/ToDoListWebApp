@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoWEB", "ToDoWEB\ToDoWEB.csproj", "{05791753-05F2-4C3F-AD3C-83574B8490F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUITestSelenium", "GUITestSelenium\GUITestSelenium.csproj", "{B84948B1-F6DC-43D1-91F9-96A776E09340}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F92F69EF-A77B-4EB6-BECE-481BFE8EB09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84948B1-F6DC-43D1-91F9-96A776E09340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84948B1-F6DC-43D1-91F9-96A776E09340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84948B1-F6DC-43D1-91F9-96A776E09340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84948B1-F6DC-43D1-91F9-96A776E09340}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
